@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-02-23T10:22:27Z" name="Default suite" finished-at="2019-02-23T10:22:44Z" duration-ms="16470">
+    <groups>
+    </groups>
+    <test started-at="2019-02-23T10:22:27Z" name="Default test" finished-at="2019-02-23T10:22:44Z" duration-ms="16470">
+      <class name="com.thegreatcourses.tests.TestingScreenshots">
+        <test-method is-config="true" signature="beforeAllTestStart()[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f]" started-at="2019-02-23T10:22:27Z" name="beforeAllTestStart" finished-at="2019-02-23T10:22:27Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTestStart -->
+        <test-method is-config="true" signature="beforeEachTestStart()[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f]" started-at="2019-02-23T10:22:27Z" name="beforeEachTestStart" finished-at="2019-02-23T10:22:29Z" duration-ms="1729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method signature="testing_screen_shot1()[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f]" started-at="2019-02-23T10:22:29Z" name="testing_screen_shot1" finished-at="2019-02-23T10:22:30Z" duration-ms="1373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing_screen_shot1 -->
+        <test-method is-config="true" signature="afterEachTestEnd(org.testng.ITestResult)[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f]" started-at="2019-02-23T10:22:30Z" name="afterEachTestEnd" finished-at="2019-02-23T10:22:34Z" duration-ms="3198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testing_screen_shot1 status=SUCCESS method=TestingScreenshots.testing_screen_shot1()[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestEnd -->
+        <test-method is-config="true" signature="beforeEachTestStart()[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f]" started-at="2019-02-23T10:22:34Z" name="beforeEachTestStart" finished-at="2019-02-23T10:22:35Z" duration-ms="1249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestStart -->
+        <test-method signature="testing_screen_shot2()[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f]" started-at="2019-02-23T10:22:35Z" name="testing_screen_shot2" finished-at="2019-02-23T10:22:40Z" duration-ms="5453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing_screen_shot2 -->
+        <test-method is-config="true" signature="afterEachTestEnd(org.testng.ITestResult)[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f]" started-at="2019-02-23T10:22:40Z" name="afterEachTestEnd" finished-at="2019-02-23T10:22:44Z" duration-ms="3437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testing_screen_shot2 status=SUCCESS method=TestingScreenshots.testing_screen_shot2()[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestEnd -->
+        <test-method is-config="true" signature="afterAllTestCompleted()[pri:0, instance:com.thegreatcourses.tests.TestingScreenshots@5c671d7f]" started-at="2019-02-23T10:22:44Z" name="afterAllTestCompleted" finished-at="2019-02-23T10:22:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllTestCompleted -->
+      </class> <!-- com.thegreatcourses.tests.TestingScreenshots -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
